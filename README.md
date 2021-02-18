@@ -1,6 +1,6 @@
 # Howdy, I'm Ryan. 👋
 
-I am a *full stack engineer* with excellence in Engineering + Product + Sales ('[The Tech Trifecta](https://thetechtrifecta)'). 
+I am a *full stack engineer* with excellence in Engineering + Product + Sales ('[The Tech Trifecta](https://thetechtrifecta.com)'). 
 
 ## Please peruse my pinned repositories below 👇
 
