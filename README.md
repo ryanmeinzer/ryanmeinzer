@@ -6,6 +6,6 @@ I am a *full stack engineer* with excellence in Engineering + Product + Sales ('
 
 ## Please peruse my pinned repositories below 👇
 
-- [x] Read About Me
+- [x] Read about me
 - [ ] Peruse my repositories
 - [ ] Hire me
