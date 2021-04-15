@@ -1,6 +1,6 @@
 # Howdy, I'm Ryan. 👋
 
-I am a *full stack engineer* with excellence in product and sales ('[The Tech Trifecta](https://thetechtrifecta.com)'). My 1,500+ commits this year include
+I am a *full stack engineer* with excellence in product and sales. My 1,500+ commits this year include
 
 > React, Redux, JavaScript, JSON, Ruby on Rails, OOP, HTML, CSS/Less, PostgreSQL, API and OmniAuth.
 
