@@ -8,4 +8,3 @@ I am a *full stack engineer* with excellence in product and sales. My 1,500+ com
 
 - [x] Read about me
 - [ ] Peruse my repositories
-- [ ] Hire me
