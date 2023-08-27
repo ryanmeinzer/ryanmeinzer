@@ -1,6 +1,6 @@
 # Howdy, I'm Ryan. 👋
 
-I am a *full stack engineer* with excellence in product and sales. My 1,000+ commits this past year involved
+I lead product, write code and sell what matters. My 1,000+ commits this past year involved
 
 > React, Redux, JavaScript, Ruby on Rails, OOP, HTML, CSS, PostgreSQL, Google Cloud Platform, Twilio, APIs and Material UI.
 
