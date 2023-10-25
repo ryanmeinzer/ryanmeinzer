@@ -11,4 +11,4 @@ I lead product, write code and sell what matters. My 1,000+ commits this past ye
 
 ---
 
-*Although some of my primary repositories are private, their respective products are publicly available with all of my other ideas at [ryanmeinzer.com/ideas](url). Let me know what you think!*
+*Although some of my primary repositories are private, their respective products are publicly available with all of my other ideas at [ryanmeinzer.com/ideas](https://ryanmeinzer.com/ideas). Let me know what you think!*
